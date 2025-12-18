@@ -2,3 +2,6 @@ streamlit
 pandas
 plotly
 matplotlib
+google-generativeai
+bcrypt
+extra-streamlit-components
